@@ -121,12 +121,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-
-EMULATOR WITH CODE
-
-<img width="959" alt="ss1" src="https://github.com/SmritiManikand/sendsms/assets/113674204/f3b3ada0-dd85-439f-a36e-6230d5162110">
-
-
 FIRST PAGE
 
 <img width="206" alt="ss2" src="https://github.com/SmritiManikand/sendsms/assets/113674204/a70cd540-aba1-4bb1-9d76-530b6285169b">
